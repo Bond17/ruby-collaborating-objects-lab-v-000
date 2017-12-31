@@ -3,7 +3,7 @@ class MP3Importer
 
   end
 
-  def self.import#import
+  def self.import(list_of_filenames)#import
 
   end
 end
