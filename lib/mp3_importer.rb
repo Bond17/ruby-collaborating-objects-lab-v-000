@@ -1,9 +1,9 @@
 class MP3Importer
-  def MP3Importer#files
+  def self.files#files
 
   end
 
-  def MP3Importer#import
+  def self.import#import
 
   end
 end
